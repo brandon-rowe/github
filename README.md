@@ -2,7 +2,6 @@
 Learning git
 
 <p>
-  Hello Alonso
 <br>
 </p>
 <h6>Resources</h6>
