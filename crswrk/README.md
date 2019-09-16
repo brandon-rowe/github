@@ -6,7 +6,7 @@ MATH 315
 </p>
 <h6>Resources</h6>
 
-Extra links that help with github.
+Extra links.
 + [The Basics - TI-84 Calculator](http://media.pearsoncmg.com/cmg/pmmg_mml_shared/flash_video_player/player.html?/aw/aw_mml_shared_1/statistics/TechnologyTutorial/Tutorial_Videos/video/1_ti)
 + [Plots for Displaying Quantitative Data (Boxplots) TI-83/84 Calculator](http://media.pearsoncmg.com/cmg/pmmg_mml_shared/flash_video_player/player.html?/aw/aw_mml_shared_1/statistics/TechnologyTutorial/Tutorial_Videos/video/2_ti)
 + [Summarizing Quantitative Variables](http://media.pearsoncmg.com/cmg/pmmg_mml_shared/flash_video_player/player.html?/aw/aw_mml_shared_1/statistics/TechnologyTutorial/Tutorial_Videos/video/6_ti)
