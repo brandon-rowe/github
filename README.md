@@ -16,4 +16,6 @@ Extra links that help with github.
 + [Remote Server Setup](https://kbroman.org/github_tutorial/pages/init.html)
 + [Git-checkout docs](https://git-scm.com/docs/git-checkout)
 + [Finding Open-Source Programs](https://help.github.com/en/articles/finding-open-source-projects-on-github)
++ [Kanban Automation](https://help.github.com/en/articles/configuring-automation-for-project-boards)
+
 
