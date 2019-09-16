@@ -2,7 +2,9 @@
 Learning git
 
 <p>
-<br><u> This is an edit by <b> Alonso</b></u>
+  This is a repo for testing git. Use this to test push/pull/merge with different branches.
+<br>
+  Links in the resources list have indepth tutorials for walking through the basics of git.
 </p>
 <h6>Resources</h6>
 
