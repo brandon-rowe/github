@@ -1,14 +1,21 @@
 # github
 Learning git
 
-What OS are you using? (Windows, Mac, Linux)
+What OS are you using? (Windows, Mac, Linux) Download git from link below.
 
 + [Git for Windows](https://git-scm.com/download/win)
 + [Git for Mac](https://git-scm.com/download/mac)
 + [Git for Linux](https://git-scm.com/download/linux)
 
-Steps for Windows
-
+<h3>Steps for Windows</h3>
+<p>
+Download and Install from link above.
+Open Git Bash.
+<br>
+<img src="/assets/img/gitstarted.png">
+<br>
+<img src="/assets/img/gitpush.png">
+</p>
 Steps for Mac
 
 Steps for Linux
