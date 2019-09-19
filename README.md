@@ -7,18 +7,17 @@ What OS are you using? (Windows, Mac, Linux) Download git from link below.
 + [Git for Mac](https://git-scm.com/download/mac)
 + [Git for Linux](https://git-scm.com/download/linux)
 
-<h3>Steps for Windows</h3>
+<h3>Use</h3>
 <p>
 Download and Install from link above.
+<br>
 Open Git Bash.
 <br>
 <img src="/assets/img/gitstarted.PNG">
 <br>
-<img src="/assets/img/gitpush.PNG>
+<img src="/assets/img/gitpush.PNG">
 </p>
-Steps for Mac
 
-Steps for Linux
 
 <p>
 This is a repo for testing git. Use this to test push/pull/merge with different branches.
