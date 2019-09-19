@@ -13,9 +13,9 @@ Download and Install from link above.
 <br>
 Open Git Bash.
 <br>
-<img src="/assets/img/gitstarted.PNG">
+<img src="gitstarted.PNG">
 <br>
-<img src="/assets/img/gitpush.PNG">
+<img src="gitpush.PNG">
 </p>
 
 
