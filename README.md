@@ -13,11 +13,10 @@ Download and Install from link above.
 <br>
 Open Git Bash.
 <br>
+</p>
 <img src="gitstarted.JPG">
 <br>
 <img src="gitpush.JPG">
-</p>
-
 
 <p>
 This is a repo for testing git. Use this to test push/pull/merge with different branches.
