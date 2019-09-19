@@ -17,8 +17,7 @@ Open Git Bash.
 ![Git Started](gitstarted.JPG)
 Format: ![Alt Text](url)
 <br>
-![Git Push(gitpush.JPG)
-Format: ![Alt Text](url)
+<img align="left" src="gitpush.JPG" width="400" > ![](gitstarted.JPG)
 
 <p>
 This is a repo for testing git. Use this to test push/pull/merge with different branches.
