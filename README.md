@@ -12,9 +12,9 @@ What OS are you using? (Windows, Mac, Linux) Download git from link below.
 Download and Install from link above.
 Open Git Bash.
 <br>
-<img src="/assets/img/gitstarted.png">
+<img src="/assets/img/gitstarted.PNG">
 <br>
-<img src="/assets/img/gitpush.png">
+<img src="/assets/img/gitpush.PNG>
 </p>
 Steps for Mac
 
