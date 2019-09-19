@@ -14,9 +14,11 @@ Download and Install from link above.
 Open Git Bash.
 <br>
 </p>
-<img src="gitstarted.JPG">
+![Git Started](gitstarted.JPG)
+Format: ![Alt Text](url)
 <br>
-<img src="gitpush.JPG">
+![Git Push(gitpush.JPG)
+Format: ![Alt Text](url)
 
 <p>
 This is a repo for testing git. Use this to test push/pull/merge with different branches.
@@ -35,4 +37,5 @@ Extra links that help with github.
 + [Git-checkout docs](https://git-scm.com/docs/git-checkout)
 + [Finding Open-Source Programs](https://help.github.com/en/articles/finding-open-source-projects-on-github)
 + [Kanban Automation](https://help.github.com/en/articles/configuring-automation-for-project-boards)
++ [Mastering Markup](https://guides.github.com/features/mastering-markdown/)
 
