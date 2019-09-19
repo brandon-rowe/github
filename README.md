@@ -13,8 +13,6 @@ Learning git
 
 <h3>Steps for Linux</h3>
 
-<footer>
-
 	<p>
   		This is a repo for testing git. Use this to test push/pull/merge with different branches.
 	<br>
@@ -33,4 +31,3 @@ Learning git
 		+ [Finding Open-Source Programs](https://help.github.com/en/articles/finding-open-source-projects-on-github)
 		+ [Kanban Automation](https://help.github.com/en/articles/configuring-automation-for-project-boards)
 
-</footer>
