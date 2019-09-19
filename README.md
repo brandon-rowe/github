@@ -1,21 +1,33 @@
 # github
 Learning git
 
-<p>
-  This is a repo for testing git. Use this to test push/pull/merge with different branches.
-<br>
-  Links in the resources list have indepth tutorials for walking through the basics of git.
-</p>
-<h6>Resources</h6>
+<h2>What OS are you using? (Windows, Mac, Linux)</h2>
+	+ [Git for Windows](https://git-scm.com/download/win)
+	+ [Git for Mac](https://git-scm.com/download/mac)
+	+ [Git for Linux](https://git-scm.com/download/linux)
 
-Extra links that help with github.
-+ [Github Getting Started](https://rogerdudler.github.io/git-guide/)
-+ [Branching](https://confluence.atlassian.com/bitbucket/branching-a-repository-223217999.html)
-+ [Merging Two Repositories](https://gist.github.com/msrose/2feacb303035d11d2d05)
-+ [Managing Projects](https://help.github.com/en/articles/configuring-automation-for-project-boards)
-+ [Remote Server Setup](https://kbroman.org/github_tutorial/pages/init.html)
-+ [Git-checkout docs](https://git-scm.com/docs/git-checkout)
-+ [Finding Open-Source Programs](https://help.github.com/en/articles/finding-open-source-projects-on-github)
-+ [Kanban Automation](https://help.github.com/en/articles/configuring-automation-for-project-boards)
+<h3>Steps for Windows</h3>
+<h3>Steps for Mac</h3>
+<h3>Steps for Linux</h3>
 
+<footer>
 
+	<p>
+  		This is a repo for testing git. Use this to test push/pull/merge with different branches.
+	<br>
+  		Links in the resources list have indepth tutorials for walking through the basics of git.
+	</p>
+
+	<h6>Resources</h6>
+
+		Extra links that help with github.
+		+ [Github Getting Started](https://rogerdudler.github.io/git-guide/)
+		+ [Branching](https://confluence.atlassian.com/bitbucket/branching-a-repository-223217999.html)
+		+ [Merging Two Repositories](https://gist.github.com/msrose/2feacb303035d11d2d05)
+		+ [Managing Projects](https://help.github.com/en/articles/configuring-automation-for-project-boards)
+		+ [Remote Server Setup](https://kbroman.org/github_tutorial/pages/init.html)
+		+ [Git-checkout docs](https://git-scm.com/docs/git-checkout)
+		+ [Finding Open-Source Programs](https://help.github.com/en/articles/finding-open-source-projects-on-github)
+		+ [Kanban Automation](https://help.github.com/en/articles/configuring-automation-for-project-boards)
+
+</footer>
