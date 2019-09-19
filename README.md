@@ -2,12 +2,15 @@
 Learning git
 
 <h2>What OS are you using? (Windows, Mac, Linux)</h2>
+
 	+ [Git for Windows](https://git-scm.com/download/win)
 	+ [Git for Mac](https://git-scm.com/download/mac)
 	+ [Git for Linux](https://git-scm.com/download/linux)
 
 <h3>Steps for Windows</h3>
+
 <h3>Steps for Mac</h3>
+
 <h3>Steps for Linux</h3>
 
 <footer>
