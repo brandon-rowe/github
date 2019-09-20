@@ -56,4 +56,6 @@ Extra links that help with github.
 + [Finding Open-Source Programs](https://help.github.com/en/articles/finding-open-source-projects-on-github)
 + [Kanban Automation](https://help.github.com/en/articles/configuring-automation-for-project-boards)
 + [Mastering Markup](https://guides.github.com/features/mastering-markdown/)
++ [Git Commit Messages](https://chris.beams.io/posts/git-commit/)
+
 
