@@ -9,30 +9,30 @@ What OS are you using? (Windows, Mac, Linux) Download git from link below.
 
 <h3>Use</h3>
 <p>
-Download and Install from link above.
+###Download and Install from link above.
 <br>
-Open Git Bash.
+###Open Git Bash.
 <br>
-Initially, you will need to navigate to the github repo. <br>
+###Initially, you will need to navigate to the github repo. <br>
 	$ cd Desktop/github <br>
 or<br>
 	$ cd Desktop<br>
 	$ cd github<br>
 <br>
-Now that you have navigated into the repo (folder), you need to make sure your 
-git credentials are entered.<br>
+###Now that you have navigated into the repo (folder), you need to make sure your 
+###git credentials are entered.<br>
 	$ git config user.name brandon-rowe<br>
 	$ git config user.email brandon@cyntax.org<br>
 <br>
-Once you have made your changes to the files within your github repo, you add
-the changes from your working directory to the index (staging).<br>
+###Once you have made your changes to the files within your github repo, you add
+###the changes from your working directory to the index (staging).<br>
 	$ git add *<br>
 or	$ git add <filename> <filename><br>
 <br>
-Now we commit the changes from the index to the head (commiting). <br>
+###Now we commit the changes from the index to the head (commiting). <br>
 	$ git commit -m "some message about changes"<br>
 <br>
-Lastly, we push the changes to the repo, usually the master branch.<br>
+###Lastly, we push the changes to the repo, usually the master branch.<br>
 	$ git push origin master<br>
 </p>
 
