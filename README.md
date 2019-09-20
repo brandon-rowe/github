@@ -13,27 +13,27 @@ Download and Install from link above.
 <br>
 Open Git Bash.
 <br>
-Initially, you will need to navigate to the github repo. <br>
+1. Initially, you will need to navigate to the github repo. <br>
 	$ cd Desktop/github <br>
 or<br>
 	$ cd Desktop<br>
 	$ cd github<br>
 <br>
-Now that you have navigated into the repo (folder), you need to make sure your 
+2. Now that you have navigated into the repo (folder), you need to make sure your 
 git credentials are entered.<br>
 	$ git config user.name git_username<br>
 	$ git config user.email git_emailaddress<br>
 <br>
-Once you have made your changes to the files within your github repo, you add
+3. Once you have made your changes to the files within your github repo, you add
 the changes from your working directory to the index (staging).<br>
 	$ git add *<br>
 or<br>	
 	$ git add filename.txt filename.java<br>
 <br>
-Now we commit the changes from the index to the head (commiting). <br>
+4. Now we commit the changes from the index to the head (commiting). <br>
 	$ git commit -m "some message about changes"<br>
 <br>
-Lastly, we push the changes to the repo, usually the master branch.<br>
+5. Lastly, we push the changes to the repo, usually the master branch.<br>
 	$ git push origin master<br>
 </p>
 
