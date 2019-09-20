@@ -21,8 +21,8 @@ or<br>
 <br>
 Now that you have navigated into the repo (folder), you need to make sure your 
 git credentials are entered.<br>
-	$ git config user.name brandon-rowe<br>
-	$ git config user.email brandon@cyntax.org<br>
+	$ git config user.name git_username<br>
+	$ git config user.email git_emailaddress<br>
 <br>
 Once you have made your changes to the files within your github repo, you add
 the changes from your working directory to the index (staging).<br>
