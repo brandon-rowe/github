@@ -18,7 +18,6 @@ Initially, you will need to navigate to the github repo. <br>
 or<br>
 	$ cd Desktop<br>
 	$ cd github<br>
-<img src="1.JPG" alt="gitstarted">
 <br>
 Now that you have navigated into the repo (folder), you need to make sure your 
 git credentials are entered.<br>
@@ -29,7 +28,7 @@ Once you have made your changes to the files within your github repo, you add
 the changes from your working directory to the index (staging).<br>
 	$ git add *<br>
 or<br>	
-	$ git add <filename> <filename><br>
+	$ git add filename.txt filename.java<br>
 <br>
 Now we commit the changes from the index to the head (commiting). <br>
 	$ git commit -m "some message about changes"<br>
