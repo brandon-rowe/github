@@ -18,7 +18,7 @@ Initially, you will need to navigate to the github repo. <br>
 or<br>
 	$ cd Desktop<br>
 	$ cd github<br>
-<img src="1.jpg" alt="gitstarted">
+<img src="1.JPG" alt="gitstarted">
 <br>
 Now that you have navigated into the repo (folder), you need to make sure your 
 git credentials are entered.<br>
