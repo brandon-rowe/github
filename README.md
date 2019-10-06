@@ -14,20 +14,19 @@ Download and Install from link above.
 Open Git Bash.
 <br>
 
-1. Initially, we will clone the github repo. Navigate to your desktop in the shell to clone. 
-`$ cd Desktop`
-`$ git clone https://github.com/brandon-rowe/github.git`
+1. Initially, we will clone the github repo (folder). Navigate to your desktop (folder) in the shell and clone (copy from download). (cd - change directory to 'Desktop') (clone - download repo (folder)) </br>
+`$ cd Desktop` </br>
+`$ git clone https://github.com/brandon-rowe/github.git` </br>
 
-2. Next we will need to navigate to the github repo.
+2. Next we will navigate to the github repo. (cd - change directory to 'github' repo (folder))
 `$ cd github`
 
-	
-3. Now that we have navigated into the repo (folder), we need to make sure our 
+3. Now that we have navigated to the repo (folder), we need to make sure our 
 git credentials are entered.
 `$ git config --global user.name git_username`
 `$ git config --global user.email git_emailaddress`
 
-4. Once we have made our changes to the files within your github repo, we add
+4. Once we have made our changes to the files within our github repo, we add
 the changes from our working directory to the index (staging).
 `$ git add *` or `$ git add filename.txt filename.java` 
 
@@ -40,7 +39,7 @@ the changes from our working directory to the index (staging).
 
 
 <p>
-This is a repo for testing git. Use this to test push/pull/merge with different branches.
+This is a repo for testing git. Use this to test committing, pushing, pulling, merging and creating branches.
 <br>
 Links in the resources list have more in-depth tutorials for walking through the basics of git. We have outlined the basics of the first link, Github Getting Started, above.
 </p>
@@ -49,12 +48,12 @@ Links in the resources list have more in-depth tutorials for walking through the
 
 Extra links that help with github.
 + [Github Getting Started](https://rogerdudler.github.io/git-guide/)
-+ [Branching](https://confluence.atlassian.com/bitbucket/branching-a-repository-223217999.html)
-+ [Remote Server Setup](https://kbroman.org/github_tutorial/pages/init.html)
-+ [Git-checkout docs](https://git-scm.com/docs/git-checkout)
-+ [Finding Open-Source Programs](https://help.github.com/en/articles/finding-open-source-projects-on-github)
-+ [Kanban Automation](https://help.github.com/en/articles/configuring-automation-for-project-boards)
-+ [Mastering Markup](https://guides.github.com/features/mastering-markdown/)
 + [Git Commit Messages](https://chris.beams.io/posts/git-commit/)
++ [Git-checkout docs](https://git-scm.com/docs/git-checkout)
++ [Branching](https://confluence.atlassian.com/bitbucket/branching-a-repository-223217999.html)
++ [Mastering Markup](https://guides.github.com/features/mastering-markdown/)
++ [Remote Server Setup](https://kbroman.org/github_tutorial/pages/init.html)
++ [Kanban Automation](https://help.github.com/en/articles/configuring-automation-for-project-boards)
++ [Finding Open-Source Programs](https://help.github.com/en/articles/finding-open-source-projects-on-github)
 
 
