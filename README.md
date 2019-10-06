@@ -18,23 +18,23 @@ Open Git Bash.
 `$ cd Desktop` </br>
 `$ git clone https://github.com/brandon-rowe/github.git` </br>
 
-2. Next we will navigate to the github repo. (cd - change directory to 'github' repo (folder))
-`$ cd github`
+2. Next we will navigate to the github repo. (cd - change directory to 'github' repo (folder))</br>
+`$ cd github`</br>
 
 3. Now that we have navigated to the repo (folder), we need to make sure our 
-git credentials are entered.
-`$ git config --global user.name git_username`
-`$ git config --global user.email git_emailaddress`
+git credentials are entered. </br>
+`$ git config --global user.name git_username` </br>
+`$ git config --global user.email git_emailaddress` </br>
 
 4. Once we have made our changes to the files within our github repo, we add
-the changes from our working directory to the index (staging).
-`$ git add *` or `$ git add filename.txt filename.java` 
+the changes from our working directory to the index (staging). </br>
+`$ git add *` or `$ git add filename.txt filename.java` </br>
 
-5. Now we commit the changes from the index to the head (commiting).
-`$ git commit -m "some message about changes"` 
+5. Now we commit the changes from the index to the head (commiting). </br>
+`$ git commit -m "some message about changes"` </br>
 
-6. Lastly, we push the changes to the repo, usually the master branch.
-`$ git push origin master` 
+6. Lastly, we push the changes to the repo, usually the master branch. </br>
+`$ git push origin master` </br>
 
 
 
