@@ -48,6 +48,7 @@ Links in the resources list have more in-depth tutorials for walking through the
 
 Extra links that help with github.
 + [Github Getting Started](https://rogerdudler.github.io/git-guide/)
++ [Git Book](https://git-scm.com/book/en/v2)
 + [Git Commit Messages](https://chris.beams.io/posts/git-commit/)
 + [Git-checkout docs](https://git-scm.com/docs/git-checkout)
 + [Branching](https://confluence.atlassian.com/bitbucket/branching-a-repository-223217999.html)
@@ -55,5 +56,3 @@ Extra links that help with github.
 + [Remote Server Setup](https://kbroman.org/github_tutorial/pages/init.html)
 + [Kanban Automation](https://help.github.com/en/articles/configuring-automation-for-project-boards)
 + [Finding Open-Source Programs](https://help.github.com/en/articles/finding-open-source-projects-on-github)
-
-
