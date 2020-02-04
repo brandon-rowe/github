@@ -39,8 +39,6 @@ the changes from our working directory to the index (staging). </br>
 
 
 <p>
-This is a repo for testing git. Use this to test committing, pushing, pulling, merging and creating branches.
-<br>
 Links in the resources list have more in-depth tutorials for walking through the basics of git. We have outlined the basics of the first link, Github Getting Started, above.
 </p>
 
