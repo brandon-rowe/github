@@ -16,7 +16,7 @@ Open Git Bash.
 
 1. Initially, we will clone the github repo (folder). Navigate to your desktop (folder) in the shell and clone (copy from download). (cd - change directory to 'Desktop') (clone - download repo (folder)) </br>
 `$ cd Desktop` </br>
-`$ git clone https://github.com/brandon-rowe/github.git` </br>
+`$ git clone https://github.com/brandon-rowe/github.git` `<-- input your repo here`</br>
 
 2. Next we will navigate to the github repo. (cd - change directory to 'github' repo (folder))</br>
 `$ cd github`</br>
