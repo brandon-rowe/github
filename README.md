@@ -67,8 +67,10 @@ Extra links that help with github.
 + [Resolving Merge Conflicts](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-on-github)
 + [Resolving Merge Conflicts with CLI](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line)
 
-
-
+### Digitalocean and Nginx
++ [Configure Digitalocean Server Droplet](https://www.digitalocean.com/docs/droplets/how-to/create/)
++ [Manage Ubuntu Server Droplet](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04)
++ [Configure Server Blocks with Nginx](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-16-04)
 
 
 
