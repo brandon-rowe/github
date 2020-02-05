@@ -1,5 +1,5 @@
 # github
-Learning git
+Learning git is fun!
 
 What OS are you using? (Windows, Mac, Linux) Download git from link below.
 
