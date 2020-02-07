@@ -72,7 +72,7 @@ Extra links that help with github.
 + [Manage Ubuntu Server Droplet](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04)
 + [Install and Config Nginx on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04)
 + [Configure Server Blocks with Nginx](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-16-04)
-
++ [Configure Nginx to run PHP](https://websiteforstudents.com/setup-nginx-web-servers-with-php-support-on-ubuntu-servers/)
 
 
 
