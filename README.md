@@ -66,6 +66,7 @@ Extra links that help with github.
 + [How to use Merge Correctly](https://dev.to/neshaz/how-to-use-git-merge-the-correctway-25pd)
 + [Resolving Merge Conflicts](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-on-github)
 + [Resolving Merge Conflicts with CLI](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line)
++ [Managing Large Files with Git LFS](https://git-lfs.github.com/)
 
 ### Digitalocean and Nginx
 + [Configure Digitalocean Server Droplet](https://www.digitalocean.com/docs/droplets/how-to/create/)
