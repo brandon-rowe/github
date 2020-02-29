@@ -53,6 +53,7 @@ Extra links that help with github.
 + [Kanban Automation](https://help.github.com/en/articles/configuring-automation-for-project-boards)
 + [Finding Open-Source Programs](https://help.github.com/en/articles/finding-open-source-projects-on-github)
 + [Github Code Review](https://github.com/features/code-review/)
++ [Managing Large Files with Git LFS](https://git-lfs.github.com/)
 
 ### Branching
 + [Git-checkout docs](https://git-scm.com/docs/git-checkout)
@@ -66,18 +67,6 @@ Extra links that help with github.
 + [How to use Merge Correctly](https://dev.to/neshaz/how-to-use-git-merge-the-correctway-25pd)
 + [Resolving Merge Conflicts](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-on-github)
 + [Resolving Merge Conflicts with CLI](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line)
-+ [Managing Large Files with Git LFS](https://git-lfs.github.com/)
-
-### Digitalocean and Nginx
-+ [Configure Digitalocean Server Droplet](https://www.digitalocean.com/docs/droplets/how-to/create/)
-+ [Manage Ubuntu Server Droplet](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04)
-+ [Install and Config Nginx on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04)
-+ [Configure Server Blocks with Nginx](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-16-04)
-+ [Configure Nginx to run PHP](https://websiteforstudents.com/setup-nginx-web-servers-with-php-support-on-ubuntu-servers/)
-+ [Configure SSL with CertBot Nginx](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-18-04)
-
-
-+ [DM Design](https://www.cyntax.org)
 
 
 
