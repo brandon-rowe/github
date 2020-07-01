@@ -14,6 +14,8 @@ Download and Install from link above.
 Open Git Bash.
 <br>
 
+hihi
+
 1. Initially, we will clone the github repo (folder). Navigate to your desktop (folder) in the shell and clone (copy from download). (cd - change directory to 'Desktop') (clone - download repo (folder)) </br>
 `$ cd Desktop` </br>
 `$ git clone https://github.com/brandon-rowe/github.git` `<-- input your repo here`</br>
