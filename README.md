@@ -1,5 +1,4 @@
 # github
-Learning git is fun!
 
 What OS are you using? (Windows, Mac, Linux) Download git from link below.
 
@@ -13,8 +12,6 @@ Download and Install from link above.
 <br>
 Open Git Bash.
 <br>
-
-hihi
 
 1. Initially, we will clone the github repo (folder). Navigate to your desktop (folder) in the shell and clone (copy from download). (cd - change directory to 'Desktop') (clone - download repo (folder)) </br>
 `$ cd Desktop` </br>
