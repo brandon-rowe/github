@@ -32,8 +32,8 @@ the changes from our working directory to the index (staging). </br>
 5. Now we commit the changes from the index to the head (commiting). </br>
 `$ git commit -m "some message about changes"` </br>
 
-6. Lastly, we push the changes to the repo, usually the master branch. </br>
-`$ git push origin master` </br>
+6. Lastly, we push the changes to the repo branch, usually the "dev" branch. </br>
+`$ git push origin dev` </br>
 
 
 
